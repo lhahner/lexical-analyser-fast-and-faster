@@ -4,3 +4,4 @@ this should be a project to write a lexical analyser in C. This should create a 
 ## Concept
 
 This Program should do the lexical analysis of any given Lexems and afters save the cleaned string as a file which can be picked up by the parser.
+Input should a list of tokens of any formal language which will be processed by the lexer.
