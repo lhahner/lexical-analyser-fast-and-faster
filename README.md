@@ -5,6 +5,8 @@ this should be a project to write a lexical analyser in C. This should create a 
 
 This Program should do the lexical analysis of any given Lexems and afters save the cleaned string as a file which can be picked up by the parser.
 Input should a list of tokens of any formal language which will be processed by the lexer.
-References: 
+To make this program faster it should utilize parallel programming in terms if using multi-core systems.
+
+## References: 
 - Chapter 2 - http://www.infouem.com.br/wp-content/uploads/2011/03/Modern-Compiler-Implementation-in-C.pdf
 - 
